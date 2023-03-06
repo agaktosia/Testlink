@@ -1,4 +1,4 @@
-# Przykłady tworzenia przypadków testowych w Testlinku, na bazie specyfikacji
+# Przykłady tworzenia przypadków testowych w Testlinku na bazie specyfikacji
 
 Przedmiot testów: http://kanbanboard.pl/
 
